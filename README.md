@@ -1,5 +1,7 @@
 // put this in index.js node-module:
 
+//furniture-app
+
 // Deprecated Prop Types
 get ColorPropType(): $FlowFixMe {
   return require('deprecated-react-native-prop-types').ColorPropType;
